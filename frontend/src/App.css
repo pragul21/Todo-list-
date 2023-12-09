@@ -1,0 +1,47 @@
+body {
+    background-color: #d17d7d;
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.textbox {
+    padding: 8px;
+    width: 40vw;
+    margin-bottom: 40px;
+}
+
+.button {
+    padding: 9px;
+    border-radius: 2px;
+    background-color: rgb(10, 168, 10);
+    color: white;
+    border: none;
+}
+
+label {
+    border: 1px solid grey;
+    font-weight: bold;
+    padding-bottom: 9px;
+    padding-top: 3px;
+    padding-left: 8px;
+    border-radius: 3px;
+    background-color: rgb(191, 187, 187);
+}
+
+.list {
+    border: 2px solid black;
+    background-color: rgb(191, 187, 187);
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 40%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    font-weight: 630;
+}
